@@ -8,9 +8,9 @@ export const HeroSection = () => {
                 <h1 className="text-3xl text-center align-center text-neutral-700 font-Roboto font-light pt-12 lg:pt-4 self-center">
                   Anup Sindagi
                 </h1>
-                <p className="text-lg text-left align-center text-neutral-700 font-Roboto font-light self-center p-4 lg:p-6 lg:pr-40"> Hi! I'm a front-end developer and hobbyist quant trader. I have previously worked at SAP Labs, Bangalore as a front-end developer using SAP UI5. Presently, I'm looking to resume my career with React. </p>
+                <p className="text-lg text-left align-center text-neutral-700 font-Roboto font-light self-center p-4 lg:p-6 lg:pr-40"> Hello! I'm currently a graduate student at Boston University in computer science. Previously, I served as a Front-End Developer using SAP UI5 at SAP Labs in Bangalore. Following that, I independently worked on algorithmic trading. I am now eager to continue my journey in software engineering and am actively seeking roles that will allow me to leverage my technical expertise and industry experience. </p>
                 <p className="text-base text-left align-center text-neutral-700 font-Roboto font-light self-center p-4 lg:p-6 lg:pr-40">
-                    sindagi.anup@gmail.com | 
+                    anups@bu.edu | 
                     <AiFillLinkedin className="inline mx-3 hover:cursor-pointer hover:scale-[1.05]" size={28} onClick={() => window.open("https://www.linkedin.com/in/anup-sindagi-331796138/","_blank").open}/>
                     <AiFillGithub className="inline hover:cursor-pointer hover:scale-[1.05]" size={28} onClick={() => window.open("https://github.com/anupSindagi","_blank").open}/>
                 </p>
